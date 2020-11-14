@@ -1,0 +1,17 @@
+.form-question {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-question label {
+  margin-bottom: 20px;
+}
+
+.form-question input {
+  width: 50vw;
+}
+
+.form-question button {
+  margin-top: 20px;
+  width: 100px;
+}
